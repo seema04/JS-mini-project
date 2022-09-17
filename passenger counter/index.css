@@ -1,0 +1,24 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    font-family: cursive;
+    background-color: lightblue;
+    text-align: center;
+    color: indianred;
+}
+button{
+  background-color: lemonchiffon;
+  border:none;
+  padding:5px 8px;
+  text-align: center;  
+  margin:15px 0;
+}
+
+#person-count{
+    
+    font-size: 2rem;
+    /* border:2px solid red; */
+    margin:0;
+}
+
+
