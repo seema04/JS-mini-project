@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    background-color: #2C3333;
+    text-align: center;
+}
+h1{
+    color:white;
+}
+span{
+    color:#019267;
+}
+button{
+    background-color: #019267;
+    border:none;
+    padding:8px 16px;
+    margin-top:10px;
+    color:white;
+    border-radius: 5px;
+}
+#hr-line{
+    margin-top:15px;
+    height:1px;
+    background-color: #146356;
+    width: 100%;
+}
+.generated-pswd{
+    display: flex;
+}
+#paswd1,#paswd2{
+    margin: 10px;
+    height:30px;
+    width:180px;
+    background-color: #3F4E4F;
+    
+}
